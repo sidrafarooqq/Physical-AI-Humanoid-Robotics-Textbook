@@ -5,20 +5,20 @@
   "source": "@site/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1.md",
   "sourceDirName": "Module-2-The-Digital-Twin-Gazebo-&-Unity",
   "slug": "/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1",
-  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1",
+  "permalink": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1.md",
+  "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 4: Humanoid Modeling with URDF and Xacro",
-    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter4"
+    "permalink": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter4"
   },
   "next": {
     "title": "Chapter 2: Humanoid Robot Simulation in Gazebo",
-    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2"
+    "permalink": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2"
   }
 }

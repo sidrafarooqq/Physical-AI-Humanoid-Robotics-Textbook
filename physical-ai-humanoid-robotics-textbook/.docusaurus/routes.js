@@ -3,145 +3,110 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug', '367'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/config',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/config', '403'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/content',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/content', '716'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/globalData',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/globalData', 'f37'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/metadata',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/metadata', 'ae8'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/registry',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/registry', '40b'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/routes',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/routes', '4d6'),
-    exact: true
-  },
-  {
-    path: '/physical-ai-humanoid-robotics-textbook/docs',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs', 'c44'),
+    path: '/ur/docs',
+    component: ComponentCreator('/ur/docs', '857'),
     routes: [
       {
-        path: '/physical-ai-humanoid-robotics-textbook/docs',
-        component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs', '4d6'),
+        path: '/ur/docs',
+        component: ComponentCreator('/ur/docs', 'af4'),
         routes: [
           {
-            path: '/physical-ai-humanoid-robotics-textbook/docs',
-            component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs', '844'),
+            path: '/ur/docs',
+            component: ComponentCreator('/ur/docs', 'c95'),
             routes: [
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter1',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter1', '5c7'),
+                path: '/ur/docs/Module-1-The Robotic-Nervous-System/chapter1',
+                component: ComponentCreator('/ur/docs/Module-1-The Robotic-Nervous-System/chapter1', 'f40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter2',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter2', '508'),
+                path: '/ur/docs/Module-1-The Robotic-Nervous-System/chapter2',
+                component: ComponentCreator('/ur/docs/Module-1-The Robotic-Nervous-System/chapter2', '6d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter3',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter3', '039'),
+                path: '/ur/docs/Module-1-The Robotic-Nervous-System/chapter3',
+                component: ComponentCreator('/ur/docs/Module-1-The Robotic-Nervous-System/chapter3', '621'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter4',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter4', 'f0d'),
+                path: '/ur/docs/Module-1-The Robotic-Nervous-System/chapter4',
+                component: ComponentCreator('/ur/docs/Module-1-The Robotic-Nervous-System/chapter4', 'f63'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1', 'f81'),
+                path: '/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1',
+                component: ComponentCreator('/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1', '7d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2', '81e'),
+                path: '/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2',
+                component: ComponentCreator('/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2', 'f85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3', '702'),
+                path: '/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3',
+                component: ComponentCreator('/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3', '226'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4', '1db'),
+                path: '/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4',
+                component: ComponentCreator('/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4', '77b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1', '759'),
+                path: '/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1',
+                component: ComponentCreator('/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1', '5b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2', 'c49'),
+                path: '/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2',
+                component: ComponentCreator('/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2', '197'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3', '113'),
+                path: '/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3',
+                component: ComponentCreator('/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3', 'c82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4', 'f8b'),
+                path: '/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4',
+                component: ComponentCreator('/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4', '9f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter1',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter1', '508'),
+                path: '/ur/docs/Module-4-Vision-Language-Action-VLA/chapter1',
+                component: ComponentCreator('/ur/docs/Module-4-Vision-Language-Action-VLA/chapter1', '43b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter2',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter2', '1e2'),
+                path: '/ur/docs/Module-4-Vision-Language-Action-VLA/chapter2',
+                component: ComponentCreator('/ur/docs/Module-4-Vision-Language-Action-VLA/chapter2', '73c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter3',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter3', '814'),
+                path: '/ur/docs/Module-4-Vision-Language-Action-VLA/chapter3',
+                component: ComponentCreator('/ur/docs/Module-4-Vision-Language-Action-VLA/chapter3', '6fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter4',
-                component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter4', '6f4'),
+                path: '/ur/docs/Module-4-Vision-Language-Action-VLA/chapter4',
+                component: ComponentCreator('/ur/docs/Module-4-Vision-Language-Action-VLA/chapter4', 'e64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -152,8 +117,8 @@ export default [
     ]
   },
   {
-    path: '/physical-ai-humanoid-robotics-textbook/',
-    component: ComponentCreator('/physical-ai-humanoid-robotics-textbook/', '61f'),
+    path: '/ur/',
+    component: ComponentCreator('/ur/', '3b1'),
     exact: true
   },
   {

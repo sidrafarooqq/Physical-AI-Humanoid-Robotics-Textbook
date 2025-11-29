@@ -36,12 +36,7 @@ export default function HomePage() {
           </div>
 
           <div className="nav-right">
-            <a 
-  className="cta" 
-  href="/physical-ai-humanoid-robotics-textbook/docs/Module-1-The%20Robotic-Nervous-System/chapter1"
->
-  Start Reading
-</a>
+            <a className="cta" href="/docs/Module-1-The%20Robotic-Nervous-System/chapter1">Start Reading</a>
 
 
             {/* Mobile Hamburger */}
@@ -70,7 +65,7 @@ export default function HomePage() {
           </p>
 
           <div className="hero-actions">
-            <a className="btn primary" href="/physical-ai-humanoid-robotics-textbook/docs/Module-1-The%20Robotic-Nervous-System/chapter1">Start Reading</a>
+            <a className="btn primary" href="/docs/Module-1-The%20Robotic-Nervous-System/chapter1">Start Reading</a>
             <a className="btn outline" href="/_bonus_urdu">Read in Urdu</a>
           </div>
 

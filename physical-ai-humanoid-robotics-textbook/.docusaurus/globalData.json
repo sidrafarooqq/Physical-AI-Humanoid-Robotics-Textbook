@@ -1,93 +1,93 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/physical-ai-humanoid-robotics-textbook/docs",
+      "path": "/ur/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/physical-ai-humanoid-robotics-textbook/docs",
+          "path": "/ur/docs",
           "mainDocId": "Module-1-The Robotic-Nervous-System/chapter1",
           "docs": [
             {
               "id": "Module-1-The Robotic-Nervous-System/chapter1",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter1",
+              "path": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-1-The Robotic-Nervous-System/chapter2",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter2",
+              "path": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-1-The Robotic-Nervous-System/chapter3",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter3",
+              "path": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-1-The Robotic-Nervous-System/chapter4",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter4",
+              "path": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter4",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1",
+              "path": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2",
+              "path": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3",
+              "path": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4",
+              "path": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
+              "path": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2",
+              "path": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3",
+              "path": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4",
+              "path": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-4-Vision-Language-Action-VLA/chapter1",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter1",
+              "path": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-4-Vision-Language-Action-VLA/chapter2",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter2",
+              "path": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-4-Vision-Language-Action-VLA/chapter3",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter3",
+              "path": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Module-4-Vision-Language-Action-VLA/chapter4",
-              "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter4",
+              "path": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter4",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -95,7 +95,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter1",
+                "path": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter1",
                 "label": "Module-1-The Robotic-Nervous-System/chapter1"
               }
             }

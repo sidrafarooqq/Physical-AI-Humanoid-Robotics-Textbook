@@ -5,7 +5,7 @@
     "ur"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "ur",
   "localeConfigs": {
     "en": {
       "label": "English",
@@ -14,8 +14,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://your-github-username.github.io",
-      "baseUrl": "/physical-ai-humanoid-robotics-textbook/"
+      "url": "https://your-vercel-domain.vercel.app",
+      "baseUrl": "/"
     },
     "ur": {
       "label": "اردو",
@@ -24,8 +24,8 @@
       "calendar": "gregory",
       "path": "ur",
       "translate": false,
-      "url": "https://your-github-username.github.io",
-      "baseUrl": "/physical-ai-humanoid-robotics-textbook/ur/"
+      "url": "https://your-vercel-domain.vercel.app",
+      "baseUrl": "/ur/"
     }
   }
 }

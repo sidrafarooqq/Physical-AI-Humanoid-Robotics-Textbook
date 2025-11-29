@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/physical-ai-humanoid-robotics-textbook/blog",
+  "blogBasePath": "/ur/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/physical-ai-humanoid-robotics-textbook/blog/authors"
+  "authorsListPath": "/ur/blog/authors"
 }

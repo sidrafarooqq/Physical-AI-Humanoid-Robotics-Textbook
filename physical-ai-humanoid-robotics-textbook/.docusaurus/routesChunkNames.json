@@ -1,129 +1,86 @@
 {
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug-367": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/ur/docs-857": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
+      "plugin": "aba21aa0"
     }
   },
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/config-403": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
-    }
+  "/ur/docs-af4": {
+    "__comp": "a7bd4aaa",
+    "__props": "04f2558c"
   },
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/content-716": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
+  "/ur/docs-c95": {
+    "__comp": "a94703ab"
+  },
+  "/ur/docs/Module-1-The Robotic-Nervous-System/chapter1-f40": {
+    "__comp": "17896441",
+    "content": "92e4dc68"
+  },
+  "/ur/docs/Module-1-The Robotic-Nervous-System/chapter2-6d3": {
+    "__comp": "17896441",
+    "content": "d7e3bccf"
+  },
+  "/ur/docs/Module-1-The Robotic-Nervous-System/chapter3-621": {
+    "__comp": "17896441",
+    "content": "dda516c1"
+  },
+  "/ur/docs/Module-1-The Robotic-Nervous-System/chapter4-f63": {
+    "__comp": "17896441",
+    "content": "75b112eb"
+  },
+  "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1-7d5": {
+    "__comp": "17896441",
+    "content": "8bb6ce92"
+  },
+  "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2-f85": {
+    "__comp": "17896441",
+    "content": "1650c438"
+  },
+  "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3-226": {
+    "__comp": "17896441",
+    "content": "8be05358"
+  },
+  "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4-77b": {
+    "__comp": "17896441",
+    "content": "6b3fdcd5"
+  },
+  "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1-5b0": {
+    "__comp": "17896441",
+    "content": "6fced4b3"
+  },
+  "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2-197": {
+    "__comp": "17896441",
+    "content": "3a6e3180"
+  },
+  "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3-c82": {
+    "__comp": "17896441",
+    "content": "543737f9"
+  },
+  "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4-9f5": {
+    "__comp": "17896441",
+    "content": "0bd57ceb"
+  },
+  "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter1-43b": {
+    "__comp": "17896441",
+    "content": "a0d95091"
+  },
+  "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter2-73c": {
+    "__comp": "17896441",
+    "content": "73479c20"
+  },
+  "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter3-6fe": {
+    "__comp": "17896441",
+    "content": "aa221f54"
+  },
+  "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter4-e64": {
+    "__comp": "17896441",
+    "content": "3fdb87f0"
+  },
+  "/ur/-3b1": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
+      "plugin": "a7456010"
     },
-    "__props": "__props---physical-ai-humanoid-robotics-textbook-docusaurus-debug-content-40-c-4cc"
-  },
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/globalData-f37": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
-    }
-  },
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/metadata-ae8": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
-    }
-  },
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/registry-40b": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
-    }
-  },
-  "/physical-ai-humanoid-robotics-textbook/__docusaurus/debug/routes-4d6": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-900"
-    }
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs-c44": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docsaba-e97"
-    }
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs-4d6": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-55-d-02f"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs-844": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter1-5c7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-the-robotic-nervous-system-chapter-192-e-e9b"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter2-508": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-the-robotic-nervous-system-chapter-2-d-7-e-fbb"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter3-039": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-the-robotic-nervous-system-chapter-3-dda-8ba"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter4-f0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-the-robotic-nervous-system-chapter-475-b-8f6"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1-f81": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-the-digital-twin-gazebo-unity-chapter-18-bb-d1a"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2-81e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-the-digital-twin-gazebo-unity-chapter-2165-155"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3-702": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-the-digital-twin-gazebo-unity-chapter-38-be-c37"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4-1db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-the-digital-twin-gazebo-unity-chapter-46-b-3-227"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1-759": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-the-ai-robot-brain-nvidia-isaac™-chapter-16-fc-bf1"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2-c49": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-the-ai-robot-brain-nvidia-isaac™-chapter-23-a-6-5b2"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3-113": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-the-ai-robot-brain-nvidia-isaac™-chapter-3543-487"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4-f8b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-the-ai-robot-brain-nvidia-isaac™-chapter-40-bd-dc0"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter1-508": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-4-vision-language-action-vla-chapter-1-a-0-d-f9d"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter2-1e2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-4-vision-language-action-vla-chapter-2734-b92"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter3-814": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-4-vision-language-action-vla-chapter-3-aa-2-3bc"
-  },
-  "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter4-6f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-4-vision-language-action-vla-chapter-43-fd-458"
-  },
-  "/physical-ai-humanoid-robotics-textbook/-61f": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-a-74-e9a"
-    },
-    "config": "config---physical-ai-humanoid-robotics-textbook-5-e-9-bf1"
+    "config": "5e9f5e1a"
   }
 }

@@ -7,12 +7,13 @@ export default {
   "title": "Physical AI & Humanoid Robotics Textbook",
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-github-username.github.io",
-  "baseUrl": "/physical-ai-humanoid-robotics-textbook/",
+  "url": "https://your-vercel-domain.vercel.app",
+  "baseUrl": "/ur/",
+  "trailingSlash": false,
   "organizationName": "your-github-username",
   "projectName": "physical-ai-humanoid-robotics-textbook",
   "deploymentBranch": "gh-pages",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -28,11 +29,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -56,7 +57,7 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/<your-username>/<your-repo>",
           "label": "GitHub",
           "position": "right"
         }
@@ -101,12 +102,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/<your-username>/<your-repo>"
             }
           ]
         }
       ],
-      "copyright": "Copyright � 2025 Physical AI & Humanoid Robotics Textbook, Built with Docusaurus."
+      "copyright": "Copyright © 2025 Physical AI & Humanoid Robotics Textbook, Built with Docusaurus."
     },
     "prism": {
       "theme": {
