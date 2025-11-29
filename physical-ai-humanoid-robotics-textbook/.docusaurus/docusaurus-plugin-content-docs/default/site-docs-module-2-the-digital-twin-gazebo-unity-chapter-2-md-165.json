@@ -1,0 +1,24 @@
+{
+  "id": "Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2",
+  "title": "Chapter 2: Humanoid Robot Simulation in Gazebo",
+  "description": "2.1 Humanoid Robot Architecture",
+  "source": "@site/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2.md",
+  "sourceDirName": "Module-2-The-Digital-Twin-Gazebo-&-Unity",
+  "slug": "/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Physics Simulation Fundamentals in Gazebo",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter1"
+  },
+  "next": {
+    "title": "Chapter 3: Sensor Simulation and Data Acquisition",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter3"
+  }
+}

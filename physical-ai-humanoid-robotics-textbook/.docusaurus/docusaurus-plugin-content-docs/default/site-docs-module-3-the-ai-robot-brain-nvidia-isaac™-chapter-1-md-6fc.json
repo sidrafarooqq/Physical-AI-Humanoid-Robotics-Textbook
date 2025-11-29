@@ -1,0 +1,24 @@
+{
+  "id": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
+  "title": "Chapter 1: NVIDIA Isaac Sim - Photorealistic Simulation",
+  "description": "1.1 Introduction to NVIDIA Isaac Sim",
+  "source": "@site/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1.md",
+  "sourceDirName": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™",
+  "slug": "/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: High-Fidelity Rendering and Unity Integration",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4"
+  },
+  "next": {
+    "title": "Chapter 2: Isaac ROS - Hardware-Accelerated Vision Systems",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2"
+  }
+}

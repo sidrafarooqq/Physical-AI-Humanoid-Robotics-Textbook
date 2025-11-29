@@ -1,0 +1,20 @@
+{
+  "id": "Module-1-The Robotic-Nervous-System/chapter1",
+  "title": "Chapter 1: Foundations of ROS 2 Architecture",
+  "description": "Why ROS 2 Matters in 2025-2030: Fueling the Humanoid Revolution",
+  "source": "@site/docs/Module-1-The Robotic-Nervous-System/chapter1.md",
+  "sourceDirName": "Module-1-The Robotic-Nervous-System",
+  "slug": "/Module-1-The Robotic-Nervous-System/chapter1",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-1-The Robotic-Nervous-System/chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 2: ROS 2 Communication Primitives",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The Robotic-Nervous-System/chapter2"
+  }
+}

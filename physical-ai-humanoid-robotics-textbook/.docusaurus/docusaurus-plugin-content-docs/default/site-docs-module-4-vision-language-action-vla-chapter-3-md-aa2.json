@@ -1,0 +1,24 @@
+{
+  "id": "Module-4-Vision-Language-Action-VLA/chapter3",
+  "title": "Chapter 3: From Planning to Execution - ROS 2 Action Integration",
+  "description": "3.1 ROS 2 Actions Architecture",
+  "source": "@site/docs/Module-4-Vision-Language-Action-VLA/chapter3.md",
+  "sourceDirName": "Module-4-Vision-Language-Action-VLA",
+  "slug": "/Module-4-Vision-Language-Action-VLA/chapter3",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-4-Vision-Language-Action-VLA/chapter3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Cognitive Planning - LLMs Translating Language to Action",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter2"
+  },
+  "next": {
+    "title": "Chapter 4: Capstone Project - The Autonomous Humanoid",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Module-4-Vision-Language-Action-VLA/chapter4",
+  "title": "Chapter 4: Capstone Project - The Autonomous Humanoid",
+  "description": "4.1 Project Overview",
+  "source": "@site/docs/Module-4-Vision-Language-Action-VLA/chapter4.md",
+  "sourceDirName": "Module-4-Vision-Language-Action-VLA",
+  "slug": "/Module-4-Vision-Language-Action-VLA/chapter4",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-4-Vision-Language-Action-VLA/chapter4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: From Planning to Execution - ROS 2 Action Integration",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-4-Vision-Language-Action-VLA/chapter3"
+  }
+}
