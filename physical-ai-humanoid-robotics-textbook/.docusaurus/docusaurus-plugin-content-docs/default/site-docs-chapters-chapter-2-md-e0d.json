@@ -1,0 +1,37 @@
+{
+  "id": "chapters/chapter2",
+  "title": "Module 2: The Digital Twin - Simulating Humanoid Robotics",
+  "description": "Building virtual playgrounds for physical AI agents with Gazebo and Unity",
+  "source": "@site/docs/chapters/chapter2.md",
+  "sourceDirName": "chapters",
+  "slug": "/chapters/chapter2",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/chapter2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module 2: The Digital Twin - Simulating Humanoid Robotics",
+    "description": "Building virtual playgrounds for physical AI agents with Gazebo and Unity",
+    "module": 2,
+    "duration": "6-8 hours",
+    "prerequisites": "ROS 2 basics, Python, basic 3D concepts",
+    "objectives": [
+      "Understand the role of simulation in modern robotics development",
+      "Master Gazebo for physics-based robot simulation",
+      "Explore Unity for high-fidelity rendering and reinforcement learning",
+      "Integrate ROS 2 control and perception with simulated environments",
+      "Develop basic simulated humanoid environments and test controllers"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System - ROS 2",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter1"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin - Building Complex Environments",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter3"
+  }
+}

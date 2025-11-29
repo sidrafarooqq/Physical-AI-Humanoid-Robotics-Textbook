@@ -1,0 +1,32 @@
+{
+  "id": "chapters/chapter1",
+  "title": "Module 1: The Robotic Nervous System - ROS 2",
+  "description": "Mastering the middleware that makes modern humanoid robots think and move",
+  "source": "@site/docs/chapters/chapter1.md",
+  "sourceDirName": "chapters",
+  "slug": "/chapters/chapter1",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module 1: The Robotic Nervous System - ROS 2",
+    "description": "Mastering the middleware that makes modern humanoid robots think and move",
+    "module": 1,
+    "duration": "6-8 hours",
+    "prerequisites": "Python basics, Linux command line",
+    "objectives": [
+      "Understand why ROS 2 is the de-facto robotic operating system",
+      "Master nodes, topics, services, and actions",
+      "Bridge Python AI agents with real ROS 2 controllers using rclpy",
+      "Model any humanoid robot using URDF/Xacro"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 2: The Digital Twin - Simulating Humanoid Robotics",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter2"
+  }
+}

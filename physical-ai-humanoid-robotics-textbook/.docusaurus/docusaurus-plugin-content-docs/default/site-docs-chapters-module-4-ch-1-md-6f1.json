@@ -1,0 +1,37 @@
+{
+  "id": "chapters/module4_ch1",
+  "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
+  "description": "Empowering humanoids to perceive, understand, and interact with the world through multimodal AI",
+  "source": "@site/docs/chapters/module4_ch1.md",
+  "sourceDirName": "chapters",
+  "slug": "/chapters/module4_ch1",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/module4_ch1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/module4_ch1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
+    "description": "Empowering humanoids to perceive, understand, and interact with the world through multimodal AI",
+    "module": 4,
+    "duration": "6-8 hours",
+    "prerequisites": "ROS 2, basic AI/ML concepts, Python",
+    "objectives": [
+      "Understand the architecture and components of VLA systems for robotics",
+      "Explore key AI models for visual perception, natural language understanding, and action generation",
+      "Integrate multimodal sensors (cameras, microphones) with VLA pipelines",
+      "Develop basic VLA behaviors for simulated humanoid robots",
+      "Grasp the ethical considerations and challenges in VLA development"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: Advanced Robotics Platforms - NVIDIA Isaac",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter5"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA) Systems - Advanced Topics",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/module4_ch2"
+  }
+}

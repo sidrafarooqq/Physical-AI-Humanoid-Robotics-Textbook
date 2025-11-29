@@ -1,0 +1,37 @@
+{
+  "id": "chapters/chapter4",
+  "title": "Module 3: Advanced Robotics Platforms - NVIDIA Isaac",
+  "description": "Leveraging NVIDIA's full stack for accelerated physical AI and humanoid development",
+  "source": "@site/docs/chapters/chapter4.md",
+  "sourceDirName": "chapters",
+  "slug": "/chapters/chapter4",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/chapter4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module 3: Advanced Robotics Platforms - NVIDIA Isaac",
+    "description": "Leveraging NVIDIA's full stack for accelerated physical AI and humanoid development",
+    "module": 3,
+    "duration": "6-8 hours",
+    "prerequisites": "ROS 2 basics, simulation concepts (Gazebo/Unity)",
+    "objectives": [
+      "Understand the NVIDIA Isaac ecosystem and its components",
+      "Master NVIDIA Isaac Sim for realistic, scalable robot simulation",
+      "Integrate ROS 2 control with Isaac Sim environments",
+      "Explore Omniverse for collaborative and data-rich robotics development",
+      "Deploy basic physical AI algorithms to Isaac Sim humanoids"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin - Building Complex Environments",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter3"
+  },
+  "next": {
+    "title": "Module 3: Advanced Robotics Platforms - NVIDIA Isaac",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/chapters/chapter5"
+  }
+}

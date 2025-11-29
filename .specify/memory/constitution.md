@@ -1,55 +1,50 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!-- Sync Impact Report:
+Version change: 1.0.0 → 1.1.0
+Modified principles:
+  - Interdisciplinary Collaboration (new)
+  - Ethical AI Development (new)
+  - Robustness & Safety Engineering (new)
+  - Human-Robot Interaction Design (new)
+  - Continuous Learning & Adaptation (new)
+Added sections:
+  - Technical Standards
+  - Research & Development Workflow
+Removed sections:
+  - None
+Templates requiring updates:
+  - .specify/templates/plan-template.md (⚠ pending)
+  - .specify/templates/spec-template.md (⚠ pending)
+  - .specify/templates/tasks-template.md (⚠ pending)
+  - .specify/templates/commands/*.md (⚠ pending)
+Follow-up TODOs:
+  - None
+-->
+# Physical AI & Humanoid Robotics Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Interdisciplinary Collaboration
+This principle stresses the importance of collaboration across AI, robotics, biomechanics, cognitive science, and ethics. Successful development in Physical AI and Humanoid Robotics requires integrating diverse expertise to address complex challenges comprehensively.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Ethical AI Development
+This principle highlights the necessity of ethical standards, human well-being, autonomy, privacy, fairness, bias detection, transparency, and accountability. All development must prioritize the responsible creation and deployment of AI systems, ensuring they serve humanity beneficially and justly.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Robustness & Safety Engineering
+This principle emphasizes engineering for extreme robustness, reliability, and safety in unpredictable environments, including rigorous risk assessment and testing. Physical AI systems must be designed to operate dependably and securely, minimizing risks to users and the environment.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Human-Robot Interaction Design
+This principle focuses on intuitive, natural, and trustworthy human-robot interaction, considering psychological, social, and cultural factors. Designing for seamless and acceptable interaction is crucial for the successful integration of humanoid robotics into society.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Continuous Learning & Adaptation
+This principle includes the concept of systems designed to continuously learn, adapt, and improve through real-world interaction. Physical AI systems must possess the capability to evolve their understanding and performance over time, responding to new data and experiences.
 
-### [PRINCIPLE_6_NAME]
+## Technical Standards
+Development must leverage advanced simulation environments for testing and validation, along with robust hardware-software co-design principles to ensure optimal performance and integration of physical and digital components.
 
-
-[PRINCIPLE__DESCRIPTION]
-
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
-
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+## Research & Development Workflow
+The workflow must be iterative and hypothesis-driven, encouraging rapid prototyping and experimentation. It should also include regular peer review and mechanisms for effective knowledge transfer across teams and disciplines.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
+This constitution supersedes all other practices. Amendments require thorough documentation, multi-stakeholder approval, and a clear migration plan. All development and operational practices must align with the core principles outlined herein. Compliance will be reviewed annually to ensure ongoing adherence to ethical, safety, and performance standards.
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
-
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.1.0 | **Ratified**: 2025-01-01 | **Last Amended**: 2025-11-28
