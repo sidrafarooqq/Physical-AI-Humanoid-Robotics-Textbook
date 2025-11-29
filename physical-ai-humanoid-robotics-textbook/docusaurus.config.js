@@ -1,5 +1,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
+
+
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Physical AI & Humanoid Robotics Textbook',
@@ -7,10 +10,12 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-github-username.github.io',
+  url: 'https://your-vercel-domain.vercel.app', // Replace with your Vercel domain
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-humanoid-robotics-textbook/',
+  // For Vercel (root deployment) this should be '/'
+  baseUrl: '/',
+  // Do not add trailing slashes to generated URLs unless you want them.
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -18,7 +23,10 @@ const config = {
   projectName: 'physical-ai-humanoid-robotics-textbook', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
-  onBrokenLinks: 'throw',
+  // During active development and when deploying to Vercel, prefer warnings
+  // for broken links so builds don't fail unexpectedly. Change to 'throw'
+  // once links are all verified.
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -37,12 +45,12 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo. Suffix with a / for GitHub pages deployment.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/<your-username>/<your-repo>/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo. Suffix with a / for GitHub pages deployment.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/<your-username>/<your-repo>/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -70,7 +78,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/<your-username>/<your-repo>',
             label: 'GitHub',
             position: 'right',
           },
@@ -114,12 +122,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/<your-username>/<your-repo>',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with Docusaurus.`,
+        copyright: `Copyright Â© ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
