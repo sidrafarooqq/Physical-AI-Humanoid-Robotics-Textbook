@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3.md",
   "sourceDirName": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™",
   "slug": "/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3",
-  "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3",
+  "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 2: Isaac ROS - Hardware-Accelerated Vision Systems",
-    "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2"
+    "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2"
   },
   "next": {
     "title": "Chapter 4: Integration and End-to-End AI-Robot System",
-    "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4"
+    "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4"
   }
 }

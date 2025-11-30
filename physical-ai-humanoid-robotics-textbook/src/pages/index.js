@@ -29,9 +29,9 @@ export default function HomePage() {
           <div className={`nav-center ${mobileOpen ? "open" : ""}`}>
             <ul className="nav-menu" role="menu">
               <li role="none"><a role="menuitem" href="/">Home</a></li>
-              <li role="none"><a role="menuitem" href="/chapters">Chapters</a></li>
-              <li role="none"><a role="menuitem" href="/_bonus_auth">Bonus</a></li>
-              <li role="none"><a role="menuitem" href="/_bonus_urdu">Urdu</a></li>
+              <li role="none"><a role="menuitem" href="/">Chapters</a></li>
+              <li role="none"><a role="menuitem" href="/">Bonus</a></li>
+              <li role="none"><a role="menuitem" href="/">Urdu</a></li>
             </ul>
           </div>
 
@@ -66,7 +66,7 @@ export default function HomePage() {
 
           <div className="hero-actions">
             <a className="btn primary" href="/docs/Module-1-The%20Robotic-Nervous-System/chapter1">Start Reading</a>
-            <a className="btn outline" href="/_bonus_urdu">Read in Urdu</a>
+            <a className="btn outline" href="/">Read in Urdu</a>
           </div>
 
           <div className="hero-visual" aria-hidden>
@@ -90,32 +90,32 @@ export default function HomePage() {
         </section>
 
         <section className="grid-section">
-          <a className="card fade-up" href="/chapter1">
+          <a className="card fade-up" href="/">
             <div className="card-head">Introduction</div>
             <p>Start with the basics — structure, tooling and simple examples.</p>
           </a>
 
-          <a className="card fade-up" href="/chapter2" style={{ animationDelay: "80ms" }}>
+          <a className="card fade-up" href="/" style={{ animationDelay: "80ms" }}>
             <div className="card-head">Core Concepts</div>
             <p>State, props, routing, and component patterns explained clearly.</p>
           </a>
 
-          <a className="card fade-up" href="/chapter3" style={{ animationDelay: "160ms" }}>
+          <a className="card fade-up" href="/" style={{ animationDelay: "160ms" }}>
             <div className="card-head">Advanced Techniques</div>
             <p>Performance, testing, middleware, and deployment workflows.</p>
           </a>
 
-          <a className="card fade-up" href="/_bonus_auth" style={{ animationDelay: "240ms" }}>
+          <a className="card fade-up" href="/" style={{ animationDelay: "240ms" }}>
             <div className="card-head">Authentication</div>
             <p>Secure flows, tokens, and best practices for real apps.</p>
           </a>
 
-          <a className="card fade-up" href="/_bonus_personalization" style={{ animationDelay: "320ms" }}>
+          <a className="card fade-up" href="/" style={{ animationDelay: "320ms" }}>
             <div className="card-head">Personalization</div>
             <p>Adaptive UIs and user-first experiences.</p>
           </a>
 
-          <a className="card fade-up" href="/_bonus_urdu" style={{ animationDelay: "400ms" }}>
+          <a className="card fade-up" href="/" style={{ animationDelay: "400ms" }}>
             <div className="card-head">Urdu Version</div>
             <p>Clear, localized explanations for Urdu readers.</p>
           </a>

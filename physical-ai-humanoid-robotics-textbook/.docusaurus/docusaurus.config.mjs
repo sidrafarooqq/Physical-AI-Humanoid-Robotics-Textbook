@@ -8,7 +8,7 @@ export default {
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
   "url": "https://your-vercel-domain.vercel.app",
-  "baseUrl": "/ur/",
+  "baseUrl": "/",
   "trailingSlash": false,
   "organizationName": "your-github-username",
   "projectName": "physical-ai-humanoid-robotics-textbook",

@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-1-The Robotic-Nervous-System/chapter2.md",
   "sourceDirName": "Module-1-The Robotic-Nervous-System",
   "slug": "/Module-1-The Robotic-Nervous-System/chapter2",
-  "permalink": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter2",
+  "permalink": "/docs/Module-1-The Robotic-Nervous-System/chapter2",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-1-The Robotic-Nervous-System/chapter2.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 1: Foundations of ROS 2 Architecture",
-    "permalink": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter1"
+    "permalink": "/docs/Module-1-The Robotic-Nervous-System/chapter1"
   },
   "next": {
     "title": "Chapter 3: Implementing Your First ROS 2 System",
-    "permalink": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter3"
+    "permalink": "/docs/Module-1-The Robotic-Nervous-System/chapter3"
   }
 }

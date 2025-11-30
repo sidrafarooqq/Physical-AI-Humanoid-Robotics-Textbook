@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4.md",
   "sourceDirName": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™",
   "slug": "/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4",
-  "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4",
+  "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter4.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 3: Path Planning for Bipedal Humanoid Movement",
-    "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3"
+    "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3"
   },
   "next": {
     "title": "Chapter 1: Voice-to-Action - Speech Recognition and Command Processing",
-    "permalink": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter1"
+    "permalink": "/docs/Module-4-Vision-Language-Action-VLA/chapter1"
   }
 }

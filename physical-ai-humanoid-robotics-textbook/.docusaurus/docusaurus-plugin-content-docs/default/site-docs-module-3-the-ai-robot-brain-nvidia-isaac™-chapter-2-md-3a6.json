@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2.md",
   "sourceDirName": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™",
   "slug": "/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2",
-  "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2",
+  "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 1: NVIDIA Isaac Sim - Photorealistic Simulation",
-    "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1"
+    "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1"
   },
   "next": {
     "title": "Chapter 3: Path Planning for Bipedal Humanoid Movement",
-    "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3"
+    "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter3"
   }
 }

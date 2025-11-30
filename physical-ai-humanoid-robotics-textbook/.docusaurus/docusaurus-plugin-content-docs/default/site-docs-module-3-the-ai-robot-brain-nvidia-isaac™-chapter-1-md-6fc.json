@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1.md",
   "sourceDirName": "Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™",
   "slug": "/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
-  "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
+  "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter1.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 4: High-Fidelity Rendering and Unity Integration",
-    "permalink": "/ur/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4"
+    "permalink": "/docs/Module-2-The-Digital-Twin-Gazebo-&-Unity/chapter4"
   },
   "next": {
     "title": "Chapter 2: Isaac ROS - Hardware-Accelerated Vision Systems",
-    "permalink": "/ur/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2"
+    "permalink": "/docs/Module-3-The-AI-Robot-Brain-NVIDIA-Isaac™/chapter2"
   }
 }

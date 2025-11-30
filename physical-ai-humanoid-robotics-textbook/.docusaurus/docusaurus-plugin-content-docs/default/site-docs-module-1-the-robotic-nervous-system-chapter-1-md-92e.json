@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-1-The Robotic-Nervous-System/chapter1.md",
   "sourceDirName": "Module-1-The Robotic-Nervous-System",
   "slug": "/Module-1-The Robotic-Nervous-System/chapter1",
-  "permalink": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter1",
+  "permalink": "/docs/Module-1-The Robotic-Nervous-System/chapter1",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-1-The Robotic-Nervous-System/chapter1.md",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Chapter 2: ROS 2 Communication Primitives",
-    "permalink": "/ur/docs/Module-1-The Robotic-Nervous-System/chapter2"
+    "permalink": "/docs/Module-1-The Robotic-Nervous-System/chapter2"
   }
 }

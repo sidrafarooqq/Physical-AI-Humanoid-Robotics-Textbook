@@ -5,7 +5,7 @@
   "source": "@site/docs/Module-4-Vision-Language-Action-VLA/chapter3.md",
   "sourceDirName": "Module-4-Vision-Language-Action-VLA",
   "slug": "/Module-4-Vision-Language-Action-VLA/chapter3",
-  "permalink": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter3",
+  "permalink": "/docs/Module-4-Vision-Language-Action-VLA/chapter3",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/<your-username>/<your-repo>/tree/main/docs/Module-4-Vision-Language-Action-VLA/chapter3.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 2: Cognitive Planning - LLMs Translating Language to Action",
-    "permalink": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter2"
+    "permalink": "/docs/Module-4-Vision-Language-Action-VLA/chapter2"
   },
   "next": {
     "title": "Chapter 4: Capstone Project - The Autonomous Humanoid",
-    "permalink": "/ur/docs/Module-4-Vision-Language-Action-VLA/chapter4"
+    "permalink": "/docs/Module-4-Vision-Language-Action-VLA/chapter4"
   }
 }
